@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
     ─「 Time Bot 」─
-</h2>
+</h1>
 
 ```
  A star ⭐ From You Means A Lot To Us!
