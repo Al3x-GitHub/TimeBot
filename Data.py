@@ -46,7 +46,7 @@ Use below commands to use me. I can be used everywhere including here, groups, c
 /start - `Check if bot is alive.`
 
 **Inline Mode** :-
-Format :- "`@TimeTellerBot <pass some text>`"
+Format :- "`<bot username> <pass some text>`"
 Use above format to use inline mode as follows:
 - Pass no text or pass "time" to get current time.
 - Pass any timezone to get that timezone's current time.
@@ -60,7 +60,7 @@ Use above format to use inline mode as follows:
 
 A Telegram Bot To Show Time Of Different Places In Different Way.
 
-┏ **Source Code** : [Click Here](https://github.com/StarkBotsIndustries/TimeBot)
+┏ **Source Code** : [Click Here](https://github.com/AL3X-Github/TimeBot)
 ┣ **Framework** : [Pyrogram](docs.pyrogram.org)
 ┣ **Language** : [Python](www.python.org)
 ┗ **Developer** : [I𝗓υɱi 和泉](https://t.me/MaximXRobot)
