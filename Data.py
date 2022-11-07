@@ -11,8 +11,6 @@ Welcome to {}
 I am a Time Teller bot and I can show time of different places in different ways (Not Wakanda :P).
 
 Use below buttons to learn more !
-
-By @StarkBots
     """
 
     # Home Button
@@ -22,13 +20,13 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Developer  ✨", url="https://t.me/MaximXRobot")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ Updates Channel ♥", url="https://t.me/MaximXChannels")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/MaximXGroup")],
     ]
 
     # Help Message
@@ -60,13 +58,10 @@ Use above format to use inline mode as follows:
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to show time of different places in different ways. by @StarkBots
+A Telegram Bot To Show Time Of Different Places In Different Way.
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/TimeBot)
-
-Framework : [Pyrogram](docs.pyrogram.org)
-
-Language : [Python](www.python.org)
-
-Developer : @StarkProgrammer
+┏ **Source Code** : [Click Here](https://github.com/StarkBotsIndustries/TimeBot)
+┣ **Framework** : [Pyrogram](docs.pyrogram.org)
+┣ **Language** : [Python](www.python.org)
+┗ **Developer** : [I𝗓υɱi 和泉](https://t.me/MaximXRobot)
     """
